@@ -16,7 +16,6 @@ Languages: Portuguese, English
 <h4>Backend:</h4>
 <p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="csharp" width="40" height="40" /></a>&nbsp;
-  </br>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40" /></a>&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40" /> </a>&nbsp;
   <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40" /> </a>&nbsp;
