@@ -42,6 +42,7 @@ Languages: Portuguese, English
 <p>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.icons8.com/nolan/64/jira.png" alt="jira" width="40" height="40" /></a>&nbsp;
   <a href="https://www.atlassian.com/software/trello" target="_blank"><img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello" width="40" height="40" /></a>&nbsp;
+  <a href="https://azure.microsoft.com/pt-br/products/devops" target="_blank"><img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="azure" width="40" height="40" /></a>&nbsp;
 </p>
 
 
